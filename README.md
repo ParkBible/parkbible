@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## [비접촉 모션인식 입력 시스템](https://github.com/parkbible/Smart-Input-System.git)
-2019 ~ 2020 정보통신공학과 캡스톤디자인 경진대회 우수상 작
+2019 ~ 2020 정보통신공학과 캡스톤디자인 경진대회 우수상 수상작
 
 ## [사용자 경험 기반 맞춤형 스마트 관광 추천 서비스](https://github.com/parkbible/KTO.git)
 한국관광공사 협업 웹 개발 프로젝트
