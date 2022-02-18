@@ -14,6 +14,9 @@
 ## [멀티캠퍼스](https://github.com/parkbible/Multicampus.git)
 개발자 과정 - Java, C 사용
 
+## [다이어리형 커뮤니티 사이트 개발](https://github.com/parkbible/Diary-Community.git)
+"오늘 어때?" 멀티캠퍼스 1인 프로젝트 - Spring 기반
+
 <!--
 **parkbible/parkbible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
