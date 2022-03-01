@@ -8,7 +8,7 @@
 ## [파이썬 데이터 사이언스 학습코드](https://github.com/parkbible/parkbible.git)
 판다스, 사이킷런 등
 
-## [코딩테스트 연습]
+## 코딩테스트 연습
 [프로그래머스 - 파이썬 사용](https://github.com/parkbible/Programmers.git)
 [인프런 파이썬 알고리즘 문제풀이](https://github.com/parkbible/Algorithm.git)
 
