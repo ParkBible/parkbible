@@ -9,8 +9,8 @@
 판다스, 사이킷런 등
 
 ## 코딩테스트 연습
-[프로그래머스 - 파이썬 사용](https://github.com/parkbible/Programmers.git)
-[인프런 파이썬 알고리즘 문제풀이](https://github.com/parkbible/Algorithm.git)
+[프로그래머스 - 파이썬 사용](https://github.com/parkbible/Programmers.git)<br/>
+[인프런 - 파이썬 알고리즘 문제풀이](https://github.com/parkbible/Algorithm.git)
 
 ## [멀티캠퍼스](https://github.com/parkbible/Multicampus.git)
 개발자 과정 - Java, C 사용
