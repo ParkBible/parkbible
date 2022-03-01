@@ -5,7 +5,7 @@
 ## [사용자 경험 기반 맞춤형 스마트 관광 추천 서비스](https://github.com/parkbible/KTO.git)
 한국관광공사 협업 웹 개발 프로젝트
 
-## [파이썬 데이터 사이언스 학습코드](https://github.com/parkbible/parkbible.git)
+## [빅리더 AI 아카데미 - 파이썬 데이터 사이언스 학습코드](https://github.com/parkbible/parkbible.git)
 판다스, 사이킷런 등
 
 ## 코딩테스트 연습
