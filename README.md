@@ -6,7 +6,7 @@
 한국관광공사 협업 웹 개발 프로젝트
 
 ## [빅리더 AI 아카데미 - 파이썬 데이터 사이언스 학습코드](https://github.com/parkbible/parkbible.git)
-판다스, 사이킷런 등
+판다스, 웹 크롤링, 머신러닝, 딥러닝
 
 ## 코딩테스트 연습
 [프로그래머스 - 파이썬 사용](https://github.com/parkbible/Programmers.git)<br/>
