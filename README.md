@@ -1,4 +1,6 @@
-### Hi there 👋
+- Blog: https://doringri.tistory.com
+- Notion: https://fog-banon-490.notion.site/fc3eee3e8e964415ad5cd36172c37256
+
 ## [비접촉 모션인식 입력 시스템](https://github.com/parkbible/Smart-Input-System.git)
 2019 ~ 2020 4인 프로젝트 - 정보통신공학과 캡스톤디자인 경진대회 우수상 수상작
 
