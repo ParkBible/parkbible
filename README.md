@@ -1,7 +1,17 @@
-- Blog: https://doringri.tistory.com
-- Notion: https://fog-banon-490.notion.site/fc3eee3e8e964415ad5cd36172c37256
+## About Me
 
 <div align="center">
+  More Sites<br>
+  <a href="https://doringri.tistory.com">
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white">
+  </a>
+  <a href="https://fog-banon-490.notion.site/fc3eee3e8e964415ad5cd36172c37256">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+</div><br>
+
+<div align="center">
+  Tech Stack<br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
