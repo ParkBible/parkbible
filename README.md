@@ -1,8 +1,13 @@
 ## About Me
+<div align="center">
+  KakaoTalk Emoticon
+</div>
+
+
 　　　　　　　　　[<img src="https://github.com/ParkBible/Smart-Input-System/assets/87624953/30161914-3a70-43be-89b5-2bcaa0434e2f">](https://e.kakao.com/t/coding-bunnies)
 
 <div align="center">
-  <br><br>
+  <br>
   More Sites<br>
   <a href="https://doringri.tistory.com">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white">
