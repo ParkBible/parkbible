@@ -1,5 +1,5 @@
 ## About Me
-　　　　　　　　　　　　[<img src="https://github.com/ParkBible/Smart-Input-System/assets/87624953/30161914-3a70-43be-89b5-2bcaa0434e2f">](https://e.kakao.com/t/coding-bunnies)
+　　　　　　　　　[<img src="https://github.com/ParkBible/Smart-Input-System/assets/87624953/30161914-3a70-43be-89b5-2bcaa0434e2f">](https://e.kakao.com/t/coding-bunnies)
 
 <div align="center">
   <br><br>
