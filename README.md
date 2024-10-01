@@ -42,8 +42,8 @@
 ### [빅리더 AI 아카데미 - 파이썬 데이터 사이언스 학습코드](https://github.com/parkbible/parkbible.git)
 2021.07.01 ~ 2021.07.31 판다스, 웹 크롤링, 자연어 처리, 머신러닝, 딥러닝
 
-### 코딩테스트 연습
-[프로그래머스 - 파이썬 사용](https://github.com/parkbible/Programmers.git)<br/>
+### 알고리즘 문제풀이
+[프로그래머스 문제풀이](https://github.com/ParkBible/Solved-Algorithm)<br/>
 [인프런 - 파이썬 알고리즘 문제풀이](https://github.com/parkbible/Algorithm.git)
 
 ### [멀티캠퍼스](https://github.com/parkbible/Multicampus.git)
